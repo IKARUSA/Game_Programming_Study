@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7c67e528ca54aa14b93aecfefddca0a1
+timeCreated: 1519886660
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yang Rounded Condensed
+  fontNames:
+  - Yang Rounded Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
